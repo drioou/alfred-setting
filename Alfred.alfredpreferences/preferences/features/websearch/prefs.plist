@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>6F45DF51-4F4E-4E3B-A52E-E69DDC1E7767</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>tb</string>
+			<key>text</key>
+			<string>search with taobao</string>
+			<key>url</key>
+			<string>https://s.taobao.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DED8C01D-EB97-4503-AB51-900E3FB2FCBB</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>zhihu</string>
+			<key>text</key>
+			<string>search with zhihu</string>
+			<key>url</key>
+			<string>https://www.zhihu.com/search?type=content&amp;q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
